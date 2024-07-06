@@ -6,7 +6,10 @@ Dotnet Version - 8.0.302
 c# version - 12.0
 
 Step 1
-Open the project and add the NuGet packages RestSharp,Xunit and FluentAssertions
+Open the project and add the following NuGet packages. 
+RestSharp
+Xunit
+FluentAssertions
 
 Step 2
 Build the project - Build > Build Solution
